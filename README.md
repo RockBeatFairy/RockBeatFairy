@@ -2,7 +2,7 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a Geramn student with a profound interest in engineering and programming.
+I am a German student with a profound interest in engineering and programming.
 
 ## Objective
 
